@@ -1,3 +1,8 @@
+#practica_no1.py
+# autor: Cristian Echevarria
+# fecha: 2026-03-01
+# descripcion: Ejercicios de programacion logica
+
 from functools import reduce 
 
 # Ejercicio 1
@@ -46,7 +51,7 @@ print("....::::: Ejercicio 3 :::::....")
 print(f'fibonacci de 4: {fibonacci(5)}')
 print('\n')
 
-# Ejercicio 4
+# Ejercicio 4 - espero sea valido lambda :D
 print("....::::: Ejercicio 4 :::::....")
 lista = [1,2,3,4,5,6,7,8,9,10]
 # Generamos una nueva lista con los cuadrados de cada número usando map.
