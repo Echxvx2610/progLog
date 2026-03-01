@@ -31,7 +31,7 @@ print("....::::: Ejercicio 2 :::::....")
 print(f'factorial de 5: {factorial(5)}') # 5! = 5 * 4 * 3 * 2 * 1 = 120
 print('\n')
 
-#Ejercicio 3 # esta funcion me costo un poco entenderla
+#Ejercicio 3 - esta funcion me costo un poco entenderla
 def fibonacci(n):
     """
     Calcula el número n de la secuencia de Fibonacci
